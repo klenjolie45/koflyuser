@@ -1,0 +1,11 @@
+{
+    "name": "KOfly Lounge",
+    "short_name": "KO Fly Lounge",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "KO Fly Lounge & Bistro — Fly in. Dine well. Unwind.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
